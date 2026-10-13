@@ -21,4 +21,4 @@ This repo is restricted to invited QA reviewers.
 
 ## Contact for access
 
-- testing@threecreative.nl (request access if you have been invited but lack repo permissions).
+- info@threecreative.nl (request access if you have been invited but lack repo permissions).

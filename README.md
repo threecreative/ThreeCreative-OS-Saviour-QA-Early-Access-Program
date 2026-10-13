@@ -13,7 +13,7 @@ Important: access to this repository and its builds is restricted to approved QA
 ## Access and invitations
 
 - Only invited QA reviewers may access this repository and its artifacts.
-- If you're reading this and believe you should have access, contact testing@threecreative.nl. Do not attempt to share builds or repository contents with non-invited parties.
+- If you're reading this and believe you should have access, contact info@threecreative.nl. Do not attempt to share builds or repository contents with non-invited parties.
 
 ## Contents
 
@@ -33,7 +33,7 @@ Important: access to this repository and its builds is restricted to approved QA
 
 ## Communication channels
 
-- Primary (private): testing@threecreative.nl
+- Primary (private): info@threecreative.nl
 - For internal coordination: private Slack/Matrix channel (invite only)
 - For emergency/security issues: follow instructions in SECURITY.md
 
